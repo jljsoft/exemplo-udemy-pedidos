@@ -1,0 +1,15 @@
+C:\Projetos\back-end C#\POO\EstadosPedidos\bin\Debug\net7.0\EstadosPedidos.exe
+C:\Projetos\back-end C#\POO\EstadosPedidos\bin\Debug\net7.0\EstadosPedidos.deps.json
+C:\Projetos\back-end C#\POO\EstadosPedidos\bin\Debug\net7.0\EstadosPedidos.runtimeconfig.json
+C:\Projetos\back-end C#\POO\EstadosPedidos\bin\Debug\net7.0\EstadosPedidos.dll
+C:\Projetos\back-end C#\POO\EstadosPedidos\bin\Debug\net7.0\EstadosPedidos.pdb
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.csproj.AssemblyReference.cache
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.AssemblyInfoInputs.cache
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.AssemblyInfo.cs
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.csproj.CoreCompileInputs.cache
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.dll
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\refint\EstadosPedidos.dll
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.pdb
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\EstadosPedidos.genruntimeconfig.cache
+C:\Projetos\back-end C#\POO\EstadosPedidos\obj\Debug\net7.0\ref\EstadosPedidos.dll
